@@ -1,8 +1,8 @@
 [
 	{
-		nom: "Deezer",
-		url: "https://www.deezer.com/fr/",
-		url_image: "./images/Deezer.png"
+		"nom": "Deezer",
+		"url": "https://www.deezer.com/fr/",
+		"url_image": "./images/Deezer.png"
 	},
 	{
 		nom: "Netflix",
